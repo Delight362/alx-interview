@@ -1,5 +1,3 @@
+Grid cells are connected horizontally/vertically (not diagonally). The grid is completely surrounded by water, and there is exactly one island (i.e., one or more connected land cells).
 
-We can find the perimeter of the island simply by counting the number of sides adjacent to the water. The idea is to traverse the matrix and check if the current cell is on land or not. If the current cell is land, increment the perimeter count whenever we encounter a boundary.
-
-
-![image](https://github.com/Karlie-crypto/alx-interview/assets/110098940/8dc43b9b-70fa-4d40-a81e-6ceaee6044a1)
+![image](https://github.com/Karlie-crypto/alx-interview/assets/110098940/32a1d4e1-79eb-4f8d-8d14-9dff2791c6cb)
